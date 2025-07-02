@@ -1,0 +1,30 @@
+{
+  "id": "3998195",
+  "name": "vue3-app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7429",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5083057",
+      "name": "亲友",
+      "font_class": "pengyou",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11372773",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    }
+  ]
+}
